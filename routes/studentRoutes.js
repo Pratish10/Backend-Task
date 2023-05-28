@@ -3,7 +3,7 @@ const router = express.Router();
 const Student = require("../models/userModel")
 
 
-// POST /student - Create a new student
+// POST /students - Create a new student
 router.post("/",async (req,res)=>{
     const student = new Student({
       name: req.body.name,
@@ -29,7 +29,7 @@ router.get("/", async(req,res)=>{
     }
 })
   
-// GET /student/:id - get student by id 
+// GET /students/:id - get student by id 
 router.get("/:id", async(req,res)=>{
     try {
       const studentId = req.params.id;
@@ -45,7 +45,7 @@ router.get("/:id", async(req,res)=>{
     }
 })
   
-// PUT /student/:id - Update a specific student
+// PUT /students/:id - Update a specific student
 router.put('/:id',  async (req, res) => {
     try {
 
