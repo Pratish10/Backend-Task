@@ -1,0 +1,143 @@
+[
+    {
+        "name": "test",
+        "age": 20,
+        "grade": "A",
+        "subjects": [
+            "Maths",
+            "Science",
+            "Biology"
+        ]
+    },
+    {
+        "name": "bob",
+        "age": 22,
+        "grade": "B",
+        "subjects": [
+            "Maths",
+            "Science",
+            "Biology"
+        ]
+    },
+    {
+        "name": "bobby",
+        "age": 18,
+        "grade": "A+",
+        "subjects": [
+            "Maths",
+            "Science",
+            "Biology"
+        ]
+    },
+    {
+        "name": "marley",
+        "age": 20,
+        "grade": "B+",
+        "subjects": [
+            "Maths",
+            "Science",
+            "Biology",
+            "English"
+        ]
+    },
+    {
+        "name": "Cyb",
+        "age": 4,
+        "grade": "A",
+        "subjects": [
+            "Maths",
+            "Science",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Randie",
+        "age": 17,
+        "grade": "F",
+        "subjects": [
+            "Maths",
+            "Science",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Dimitri",
+        "age": 58,
+        "grade": "C",
+        "subjects": [
+            "Maths",
+            "Science",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Adrian",
+        "age": 89,
+        "grade": "D",
+        "subjects": [
+            "Maths",
+            "Science",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Nat",
+        "age": 81,
+        "grade": "E",
+        "subjects": [
+            "Maths",
+            "Science",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Milli",
+        "age": 39,
+        "grade": "C",
+        "subjects": [
+            "Maths",
+            "Science",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Della",
+        "age": 90,
+        "grade": "A",
+        "subjects": [
+            "Maths",
+            "Science",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Kalila",
+        "age": 50,
+        "grade": "B",
+        "subjects": [
+            "Maths",
+            "Science",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Bartlett",
+        "age": 52,
+        "grade": "c",
+        "subjects": [
+            "Maths",
+            "Science",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Celesta",
+        "age": 60,
+        "grade": "D",
+        "subjects": [
+            "Maths",
+            "Science",
+            "Biology"
+        ]
+    }
+]
